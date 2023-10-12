@@ -1,9 +1,7 @@
-[![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)](https://mcootauc.github.io/)
+
 <h1 align="center">Hi 👋, I'm Mitchell Cootauco</h1>
 <h3 align="center">A passionate software engineer from Los Angeles, California</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mcootauc&label=Profile%20views&color=0e75b6&style=flat" alt="mcootauc" /> </p>
 
 - 🌱 I’m currently learning **Web app development (React, JavaScript, HTML, and CSS), Cybersecurity, and Machine Learning.**
 
@@ -28,3 +26,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mcootauc&show_icons=true&locale=en" alt="mcootauc" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mcootauc&" alt="mcootauc" /></p>
+
