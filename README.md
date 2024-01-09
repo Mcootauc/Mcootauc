@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Mitchell Cootauco</h1>
-<h3 align="center">A passionate software engineer from Los Angeles, California</h3>
+<h3 align="center">A passionate software engineer from San Marino, California</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 - 🌱 I’m currently learning **Web app development (React, JavaScript, HTML, and CSS), Cybersecurity, and Machine Learning.**
