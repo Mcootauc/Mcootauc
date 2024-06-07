@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://mcootauc.github.io/](https://mcootauc.github.io/)
 
-- 💬 Ask me about **Java, Python, HTML, CSS, and JavaScript**
-
 - 📫 How to reach me **mcootauc@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
